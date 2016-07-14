@@ -1,6 +1,6 @@
 ## PhotoApp Website
 
-Create the following design w/ Bootstrap 
+Create the following site w/ Bootstrap 
 
 ### Home Page 
 
